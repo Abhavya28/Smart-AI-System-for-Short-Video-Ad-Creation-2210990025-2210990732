@@ -37,6 +37,7 @@ npm run dev
 # Install server dependencies
 cd server
 npm install
+npx prisma generate
 npm start
 ```
 ---
